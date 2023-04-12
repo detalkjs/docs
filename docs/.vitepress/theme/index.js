@@ -15,6 +15,14 @@ import Comment from "./comment.vue";
 export default {
     ...DefaultTheme,
     ...theme,
+    ...VPHomeHero,
+    ...VPHomeFeatures,
+    ...VPHomeSponsors,
+    ...VPDocAsideSponsors,
+    ...VPTeamPage,
+    ...VPTeamPageTitle,
+    ...VPTeamPageSection,
+    ...VPTeamMembers,
     enhanceApp({ app, router, siteData }) {
         app.component('Comment', Comment)
     }
