@@ -73,13 +73,13 @@ export default {
             message: 'Released under the MIT License.',
             copyright: 'Copyright © 2022 <a href="https://github.com/detalkjs">Detalk.js</a>'
         },
-//         algolia: {
-//           appId: '740G7JYGE7',
-//           apiKey: 'e22e4d58c30a2aa8d9d8cada97a9eae8',
-//           indexName: 'detalk.js.org',
-//           placeholder: '请输入关键词',
-//           buttonText: '搜索',
-//         }
-        localSearch: true,
+        algolia: {
+          appId: '740G7JYGE7',
+          apiKey: 'e22e4d58c30a2aa8d9d8cada97a9eae8',
+          indexName: 'detalk.js.org',
+          placeholder: '请输入关键词',
+          buttonText: '搜索',
+        }
+//         localSearch: true,
     }
 }
