@@ -16,7 +16,7 @@ Detalk 支持您的评论前和评论后的事件行为进行自定义。
 
 ### 传入内容
 
-评论前 (`beforeComment`) 的实现代码可以[见此处](https://github.com/detalkjs/server/blob/master/src/action/beforeComment.js)。
+> 评论前 (`beforeComment`) 的实现代码可以[见此处](https://github.com/detalkjs/server/blob/master/src/action/beforeComment.js)。
 
 可以看到，函数传入一个 `$data` 变量。
 
@@ -24,7 +24,7 @@ Detalk 支持您的评论前和评论后的事件行为进行自定义。
 
 ```js
 let $data = {
-	// 评论者的昵称
+// 评论者的昵称
 	nickname: "Detalk",
     // 评论者的邮箱
 	email: "detalk@example.com",
