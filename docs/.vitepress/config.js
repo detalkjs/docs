@@ -81,6 +81,7 @@ export default {
 //           buttonText: '搜索',
 //         }
     localSearch: {
+        enable: true,
           locales: {
             zh: {
               translations: {
