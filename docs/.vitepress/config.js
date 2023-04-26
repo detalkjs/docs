@@ -37,6 +37,7 @@ export default {
                     { text: 'GitHub 登录', link: '/client/github-login.html' },
                     { text: 'reCAPTCHA 人机验证', link: '/client/recaptcha.html' },
                     { text: '高级设置', link: '/client/advanced.html' },
+                    { text: '尝试 Detalk.js!', link: '/client/try.html' },
                 ]
             },
             {
