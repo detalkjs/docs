@@ -8,6 +8,7 @@ export default {
         ["script", { src: "/twikoo-cvt.js" }],
 //         ["script", { src: "https://cdn.jsdelivr.net/npm/@detalk/static@1.1.6-alpha/dist/detalk.js" }],
         ["script", { src: "https://detalk.netlify.app/dist/detalk.js" }],
+        ["script", { src: "/try-detalk.js" }],
         [
           "script",
           {
