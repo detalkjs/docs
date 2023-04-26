@@ -18,6 +18,9 @@ document.onreadystatechange = function () {
                       class: 'label-blue',
                   }
               },
+              login: {
+                  github: '8cce104300dc1617f5b7'
+              },
               recaptchaSiteKey: '6LefUdojAAAAAHe0G0p0MaW5U93AnH_G5QViDl92',
               recaptchaLoaded: false,
               pasteImage: async (blob) => {
