@@ -7,11 +7,11 @@ title: 前端 reCAPTCHA 设置
 
 ## 注册 reCAPTCHA
 
-> **What is reCAPTCHA?**
-> 
-> **reCAPTCHA protects your website from fraud and abuse without creating friction.**
-> 
-> reCAPTCHA uses an advanced risk analysis engine and adaptive challenges to keep malicious software from engaging in abusive activities on your website. Meanwhile, legitimate users will be able to login, make purchases, view pages, or create accounts and fake users will be blocked.
+::: info What is reCAPTCHA?
+**reCAPTCHA protects your website from fraud and abuse without creating friction.**
+
+reCAPTCHA uses an advanced risk analysis engine and adaptive challenges to keep malicious software from engaging in abusive activities on your website. Meanwhile, legitimate users will be able to login, make purchases, view pages, or create accounts and fake users will be blocked.
+:::
 
 reCAPTCHA 是非常人性化、优秀的人机验证码服务，可以有效帮助你的 Detalk.js 减少被轰炸的风险。
 
